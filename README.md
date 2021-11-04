@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on Something
+- 🔭 I’m currently working on **something**
 
 - 👯 I’m looking to collaborate on **React (NextJs, Electron), and Python projects.**
 
