@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: 
 
-- Email: **techdoge12@gmail.com**
+     - Email: **techdoge12@gmail.com**
       
- - Discord: TechDoge#9346
+     - Discord: TechDoge#9346
 
