@@ -1,7 +1,5 @@
 - 🔭 I’m currently working on **something**
 
-- 👯 I’m looking to collaborate on **React (NextJs, Electron), and Python projects.**
-
 - 📫 How to reach me: 
 
      - Email: **techdoge12@gmail.com**
