@@ -1,5 +1,5 @@
 ### Hi 👋
-I'm **TechDoge**! I'm a 15 year old programmer
+I'm **TechDoge**!
 
 - 📫 Email: techdoge12@gmail.com
 - 🌃 Discord: TechDoge#9346
